@@ -1,9 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════════════════
-     MAYANK SINGH — GITHUB PROFILE README
-     Design system: GitHub dark (#0D1117) · Sky accent (#38BDF8) · Violet accent (#A78BFA)
-     Replace every <!-- TODO --> marker with your real link before publishing.
-     ══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img
